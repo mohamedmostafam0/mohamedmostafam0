@@ -2,7 +2,6 @@
 <h3 align="center">Aspiring Data Engineer & Backend Developer | Passionate About Cloud & DevOps</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedmostafam0" alt="mohamedmostafam0" /></a> </p>
 
 - 📫 How to reach me **engmohamedmostafa.m@gmail.com**
 
