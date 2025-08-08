@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">Aspiring Data Engineer & Backend Developer | Passionate About Cloud & DevOps</h3>
+<h3 align="center">Aspiring Data and Cloud Engineer</h3>
 
 
 
