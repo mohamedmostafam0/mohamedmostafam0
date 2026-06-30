@@ -14,7 +14,7 @@ I care most about the layer everyone relies on and nobody sees: pipelines that a
 <p>
 🎓 Computer Engineering — dual degree, Ain Shams University × University of East London (graduated 2026)<br/>
 🛠️ Currently building <b><a href="https://chic-custard-994275.netlify.app">Coldbase Labs</a></b>, automated data pipelines for e-commerce brands<br/>
-📍 Based in Cairo · <b>open to Data Engineer roles in the UAE and Cairo</b>
+<b>Open to roles in the UAE and Cairo</b>
 </p>
 
 <a href="https://linkedin.com/in/mohamed-mostafam">
